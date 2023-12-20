@@ -11,5 +11,5 @@ LanguageGPTBuddy is an interactive toy project designed for users to engage in c
 ## Getting Started
 ```streamlit run app.py```
 
-https://github.com/kriskda/LanguageGPTBuddy/assets/2589087/c1cf26e2-1b06-48f5-91a1-6697d8c3b1c5
+https://github.com/kriskda/LanguageGPTBuddy/assets/2589087/ae54a975-54f5-4e60-99b2-92ffb3f09975
 
